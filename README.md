@@ -13,7 +13,7 @@ A simple MCP server for managing Jamiat's IT projects.
 2. Run the server:
 
    ```bash
-   fastapi dev main.py
+   fastapi dev server.py
     ```
 
 3. Test with MCP client
@@ -21,3 +21,10 @@ A simple MCP server for managing Jamiat's IT projects.
    ```bash
    uv run client.py
     ```
+
+## Tech Stack
+
+- UV
+- Python
+- FastAPI
+- MCP Protocol
