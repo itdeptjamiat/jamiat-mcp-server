@@ -1,4 +1,4 @@
-# my-mcp-server
+# jamiat-mcp-server
 
 A simple MCP server for managing Jamiat's IT projects.
 
